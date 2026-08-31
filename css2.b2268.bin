@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Rufina';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Yq6V-LyURyLy-aKyow.c5f9b.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Rufina';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Yq6W-LyURyLy-aKKHztAvA.c5f9b.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kzm61EN.849bc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.849bc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.849bc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.849bc.ttf") format('truetype');
+}

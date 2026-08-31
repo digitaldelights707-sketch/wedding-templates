@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Beau Rivage';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/UcCi3FIgIG2bH4mMNWJUlmg3.4b992.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Rufina';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Yq6V-LyURyLy-aKyow.c5f9b.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Rufina';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Yq6W-LyURyLy-aKKHztAvA.c5f9b.ttf") format('truetype');
+}
